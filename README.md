@@ -14,3 +14,7 @@ Optional:
 <br>PTT Mic | I haven't picked one up yet but inevitably will. Most are 3d printed on Etsy.
 
 Between assembling the full kit while waiting on my QMX to arrive, I started learning Morse Code with the Morse Mania app. The app alone is insufficient. I plan to also join the Long Island CW Club.
+
+Note that the QMX does not ship with any instructions, so you are left to your own devices to figure out how to actually use it. I have found these two resources helpful:
+<br>https://youtu.be/kl68Kgb6dww?si=zVAoEpGq9CHk5mOx
+<br>https://qrp-labs.com/images/qmx/manuals/operation_1_00_009.pdf
