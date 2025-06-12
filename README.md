@@ -7,7 +7,7 @@ In addition to the radio, the following are also required:
 <br>12v power source | I googled "QMX Power source" and found a discussion on QRP-Labs forums with specific amazon listings
 <br>CW Key | I originally ordered something off of Etsy
 <br>Headphones or speaker that use a traditional audio jack
-<br>Antenna | I bought an EFHW off Etsy. In retrospect I wish I had gotten something easier to deploy.
+<br>Antenna | I bought an EFHW off Etsy. In retrospect I wish I had gotten something easier to deploy. I'm looking at telescoping mast options.
 
 Optional:
 <br>Dummy load (optional but highly recommended)
